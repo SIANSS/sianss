@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">About Me</h1>
+<p align="center"> Hey, I'm Dimosian, programmer, also love gaming.</p>        
 
-<!--
-**SIANSS/sianss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Experience 🚀
+#### _Movmint Digital Fiat Works Corporation_ (Feb 2021 - Aug 2023) - **DevOps/ Backend Engineer**
+#### _Techorin Solutions (Pvt) Ltd_ (Jan 2019 - Dec 2022) - **Backend Engineer**
 
-Here are some ideas to get you started:
+## Education 🎓
+- **BSc in Software Engineering** - _Ongoing_, ICBT City Campus, Colombo
+- **Coding Accelerator Program (Non-Profit BootCamp):** May 2018 - Oct 2018, Uki.life, Jaffna
+- **Pearson BTEC Level 5 HND:** Mar 2013 - Nov 2016, ICBT City Campus, Colombo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out if you have any questions or collaboration opportunities! 🌟
+
+https://github.com/sianss 
+
+### Things to do online
+- [Visit MIT ?](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum)
+- [9gag much ?](https://9gag.com/) 
